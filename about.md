@@ -2,14 +2,12 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
+Hi, I'm Graeme!
 
-Some information about you!
+This blog is for engineering notes, books recommendations, and whatever else under the sun
 
-### More Information
+### Contact Me
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[gacrawley@gmail.com](mailto:gacrawley@gmail.com)
